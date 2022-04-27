@@ -46,8 +46,9 @@ pip install pydub
 ```
 
 ### Using the Application
-We need to provide 
-two arguments while running the main.py file.
-1. path to video file
-2. path to news headings text file
+We need to provide two arguments while running the main.py file.
+1. Path to video file
+2. Path to news headings text file
+
+
 The output video with news ticker will be saved by the name of "news_ticker_video.mp4" in the video folder. 
